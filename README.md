@@ -4,7 +4,7 @@ For this assignment, you need to create a valid html web page containing a perso
 
 You are required to make use of the HTML elements we have learned in class so far, and in chapters 1-4 of the book.
 
-Specifically, your web page needs to include at least one of the following elements:
+Specifically, your web page needs to include one of each of the following elements:
 
 * Title
 * Headings (at least one sub-heading)
