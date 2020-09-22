@@ -12,9 +12,7 @@ Specifically, your web page needs to include one of each of the following elemen
 * Bold or Strong
 * Italic or Emphasis
 * Horizontal Rule
-* Blockquote or inline quote
 * Abbreviation
-* Address (you can make this up, no need to use your (or a celebrity's) real address)
 * Unordered List, Ordered List, or Definition List
 * Links - at least one link to an external website.
 
