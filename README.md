@@ -1,4 +1,4 @@
-# Assignment 01-Personal-Bio
+# Assignment 02-Personal-Bio
 
 For this assignment, you need to create a valid html web page containing a personal biography/resume/profile either for you, or for a famous celebrity.
 
