@@ -2,7 +2,7 @@
 
 For this assignment, you need to create a valid html web page containing a personal biography/resume/profile either for you, or for a famous celebrity.
 
-You are required to make use of the HTML elements we have learned in class so far, and in chapters 1-4 of the book.
+You are required to make use of the HTML elements we have learned in class so far.
 
 Specifically, your web page needs to include one of each of the following elements:
 
